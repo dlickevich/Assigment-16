@@ -1,0 +1,37 @@
+.winner {
+    color: green;
+    background-color: rgb(124,7,45);
+    max-width: 60px;
+    margin-left: 50px;
+    border-radius: 100%;
+  
+}
+
+.data{
+    display: flex;
+    gap:10px;
+    margin-top: 20px;
+   
+    
+}
+
+button
+   {
+    border: none;
+    width: 8vmax;
+    height: 3vmax;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1.2vmax;
+    color: aqua;
+    background-color:rgb(62,4,86)
+
+ }
+
+ input{
+     height: 20px;
+     font-size: larger;
+     background-color: rgb(118,-0,116);
+     color:aqua
+ }
+

@@ -1,0 +1,21 @@
+@import "score_board";
+@import "data";
+//later//prideti  font
+//media 320 
+
+body {
+  background: url(../img/a.jpeg) no-repeat center center fixed;
+    background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+h1,h3{
+ color:rgb(245, 194, 8) ;
+}
+h1{
+  font-size: 3em;
+}
+
+
